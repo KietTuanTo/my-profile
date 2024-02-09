@@ -109,6 +109,7 @@ nav button {
 .text-col {
     flex-basis: 50%;
     margin-bottom: 20px;
+    color:#ffeef3;
 }
 
 .img-col {
